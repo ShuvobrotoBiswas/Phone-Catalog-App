@@ -72,8 +72,8 @@
     IPhones
   </div>
 
-  <div class="q-pa-md">
-    <div class="row">
+  <div class="q-pa-md  ">
+    <div class="row justify-center full-height full-width text-center">
       <!-- <div class="col " >
         <q-img class="imgshuvo" src="~assets/img4.jpg" @click="alert = true">
         <q-dialog v-model="alert">
@@ -217,7 +217,7 @@
 
     <!-- Section 2 -->
 
-    <div class="row">
+    <div class="row justify-center full-height full-width text-center">
       <div class="col">
         <q-img class="imgshuvo" src="~assets/imgp6.png" @click="alert3 = true">
         <q-dialog v-model="alert3">
@@ -307,7 +307,7 @@
       Oneplus Smartphones
       </div>
 
-     <div class="row">
+     <div class="row justify-center full-height full-width text-center">
       <div class="col">
         <q-img class="imgshuvo" src="~assets/imgp9.jpeg" @click="alert6 = true">
         <q-dialog v-model="alert6">
@@ -331,7 +331,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 11 Pro 
+        Oneplus 11 Pro
       </div>
         </q-img>
       </div>
@@ -358,7 +358,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 12 Pro 
+        Oneplus 12 Pro
       </div>
         </q-img>
       </div>
@@ -385,7 +385,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 13 Pro 
+        Oneplus 13 Pro
        </div>
         </q-img>
       </div>
@@ -393,7 +393,7 @@
 
       <!-- Section 4 -->
 
-      <div class="row">
+      <div class="row justify-center full-height full-width text-center">
       <div class="col">
         <q-img class="imgshuvo" src="~assets/imgp12.jpeg" @click="alert9 = true">
         <q-dialog v-model="alert9">

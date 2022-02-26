@@ -22,6 +22,12 @@
     <q-page-container>
       <router-view />
     </q-page-container>
+    <!-- Footer -->
+    <q-footer class="primary absolute-bottom">
+      <div class="row justify-center items-center ">
+        2022 © Shuvobroto™ All rights reserved.
+      </div>
+    </q-footer>
   </q-layout>
 </template>
 
