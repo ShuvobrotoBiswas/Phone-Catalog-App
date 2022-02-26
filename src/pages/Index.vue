@@ -69,7 +69,7 @@
 
   <!-- Products -->
   <div class="q-pa-md text-h6">
-    IPhnones
+    IPhones
   </div>
 
   <div class="q-pa-md">
@@ -304,7 +304,7 @@
      <!-- Section  3-->
 
      <div class="q-pa-md text-h6">
-      Oneplus Smartphone
+      Oneplus Smartphones
       </div>
 
      <div class="row">
