@@ -68,6 +68,10 @@
   </div>
 
   <!-- Products -->
+  <div class="q-pa-md text-h6">
+    IPhnones
+  </div>
+
   <div class="q-pa-md">
     <div class="row">
       <!-- <div class="col " >
@@ -210,6 +214,9 @@
         </q-img>
       </div>
     </div>
+
+    <!-- Section 2 -->
+
     <div class="row">
       <div class="col">
         <q-img class="imgshuvo" src="~assets/imgp6.png" @click="alert3 = true">
@@ -292,9 +299,188 @@
       </div>
         </q-img>
       </div>
-    </div>
+     </div>
+
+     <!-- Section  3-->
+
+     <div class="q-pa-md text-h6">
+      Oneplus Smartphone
+      </div>
+
+     <div class="row">
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp9.jpeg" @click="alert6 = true">
+        <q-dialog v-model="alert6">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 11 Pro  Max<br>
+         Price : $800 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 11 Pro Max
+      </div>
+        </q-img>
+      </div>
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp10.jpeg" @click="alert7 = true">
+        <q-dialog v-model="alert7">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 12 Pro Max <br>
+         Price : $1000 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 12 Pro Max
+      </div>
+        </q-img>
+      </div>
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp11.jpeg" @click="alert8 = true">
+        <q-dialog v-model="alert8">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 13 Pro Max <br>
+         Price : $1200 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 13 Pro Max
+       </div>
+        </q-img>
+      </div>
+     </div>
+
+      <!-- Section 4 -->
+
+      <div class="row">
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp12.jpeg" @click="alert9 = true">
+        <q-dialog v-model="alert9">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 11 Pro  Max<br>
+         Price : $800 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 11 Pro Max
+      </div>
+        </q-img>
+      </div>
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp13.jpeg" @click="alert10 = true">
+        <q-dialog v-model="alert10">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 12 Pro Max <br>
+         Price : $1000 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 12 Pro Max
+      </div>
+        </q-img>
+      </div>
+      <div class="col">
+        <q-img class="imgshuvo" src="~assets/imgp14.jpeg" @click="alert11 = true">
+        <q-dialog v-model="alert11">
+        <q-card>
+        <q-card-section>
+          <div class="text-h6">About Phone</div>
+        </q-card-section>
+        <q-card-section class="q-pt-none">
+          Brand : Oneplus <br>
+         Model : 13 Pro Max <br>
+         Price : $1200 <br>
+         Network : 2G, 3G, 4G, 5G <br>
+         Sim : E-sim , Nano <br>
+         Material : (Front + Back) Gorilla Glass, Frame stainless steel <br>
+         Size : 5.8 inches <br>
+         Back Camera :  Triple 12 + 12 + 12 Megapixel
+        </q-card-section>
+        <q-card-actions align="right">
+          <q-btn flat label="OK" color="primary" v-close-popup />
+        </q-card-actions>
+       </q-card>
+       </q-dialog>
+       <div class="absolute-bottom text-subtitle1 text-center">
+        Oneplus 13 Pro Max
+      </div>
+        </q-img>
+      </div>
+      </div>
 
   </div>
+
+  <!-- Header Menu -->
+
   <div class="q-pa-md">
     <q-header elevated>
         <q-toolbar>
@@ -377,6 +563,18 @@ export default defineComponent({
       alert3: ref(false),
       alert4: ref(false),
       alert5: ref(false),
+      alert6: ref(false),
+      alert7: ref(false),
+      alert8: ref(false),
+      alert9: ref(false),
+      alert10: ref(false),
+      alert11: ref(false),
+      alert12: ref(false),
+      alert13: ref(false),
+      alert14: ref(false),
+      alert15: ref(false),
+      alert16: ref(false),
+      alert17: ref(false),
     }
   }
 });
