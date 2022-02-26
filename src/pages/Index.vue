@@ -317,7 +317,7 @@
         </q-card-section>
         <q-card-section class="q-pt-none">
           Brand : Oneplus <br>
-         Model : 11 Pro  Max<br>
+         Model : 11 Pro  <br>
          Price : $800 <br>
          Network : 2G, 3G, 4G, 5G <br>
          Sim : E-sim , Nano <br>
@@ -331,7 +331,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 11 Pro Max
+        Oneplus 11 Pro 
       </div>
         </q-img>
       </div>
@@ -344,7 +344,7 @@
         </q-card-section>
         <q-card-section class="q-pt-none">
           Brand : Oneplus <br>
-         Model : 12 Pro Max <br>
+         Model : 12 Pro  <br>
          Price : $1000 <br>
          Network : 2G, 3G, 4G, 5G <br>
          Sim : E-sim , Nano <br>
@@ -358,7 +358,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 12 Pro Max
+        Oneplus 12 Pro 
       </div>
         </q-img>
       </div>
@@ -371,7 +371,7 @@
         </q-card-section>
         <q-card-section class="q-pt-none">
           Brand : Oneplus <br>
-         Model : 13 Pro Max <br>
+         Model : 13 Pro  <br>
          Price : $1200 <br>
          Network : 2G, 3G, 4G, 5G <br>
          Sim : E-sim , Nano <br>
@@ -385,7 +385,7 @@
        </q-card>
        </q-dialog>
        <div class="absolute-bottom text-subtitle1 text-center">
-        Oneplus 13 Pro Max
+        Oneplus 13 Pro 
        </div>
         </q-img>
       </div>
