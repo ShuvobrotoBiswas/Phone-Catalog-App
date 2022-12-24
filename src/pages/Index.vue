@@ -451,7 +451,6 @@
     </div>
     <div class="q-pa-md text-h6 text-bold">Iphone</div>
 
-
     <!-- Section 5 -->
     <div class="row justify-center full-height full-width text-center">
       <div class="col">
